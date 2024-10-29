@@ -1,4 +1,4 @@
-###Hi 👋, I'm  Hemant!
+<h1>Hi 👋, I'm  Hemant!</h1>
 <p style="display:flex ; justify-content: center">A passionate Full Stack developer from India</p>
 <h2 style="display:flex ; justify-content: center">🚀 Languages and Tools I Use</h2>
 <p style="display:flex ; justify-content: center"><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
